@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 
+import '../utils/textFields_styles.dart';
+
 class LoginTextField extends StatelessWidget {
   final TextEditingController controller;
   final String hintText;
